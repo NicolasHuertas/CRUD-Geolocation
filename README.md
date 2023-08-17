@@ -17,6 +17,7 @@ python manage.py runserver
 
 ##To run frontend
 ```
+cd frontend
 npm install
 npm run dev
 ```
